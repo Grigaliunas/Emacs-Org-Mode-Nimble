@@ -1,20 +1,20 @@
 # Emacs Org Mode Theme — Nimble Commander (JSON)
 
-## Failai
-- Tema: `Emacs-Org-Mode.json`
+## Files
+- Theme: `Emacs-Org-Mode.json`
 
-## Import (faktai)
-1. Atidaryk **Nimble Commander** → **Settings** → **Themes**.
-2. Atidaryk **Theme** dropdown apačioje → pasirink **Import theme…**.
-3. Pasirink `Emacs-Org-Mode.json`.
-4. Temų sąraše pasirink **Emacs-Org-Mode**.
+## Import (facts)
+1. Open **Nimble Commander** → **Settings** → **Themes**.
+2. At the bottom of the **Theme** dropdown, choose **Import theme…**.
+3. Select `Emacs-Org-Mode.json`.
+4. In the theme list, select **Emacs-Org-Mode**.
 
-## Automatinis perjungimas (faktai)
-- Jei tema „dingsta“ po perkrovimo arba pasikeitus macOS Light/Dark, tai valdoma per:
+## Automatic switching (facts)
+- If the theme “disappears” after restart or changes when macOS switches Light/Dark, it is controlled here:
   **Settings → Themes → (…) → Configure automatic switching…**
-- Ten galima išjungti automatinį perjungimą arba priskirti tą pačią temą abiem sisteminėms išvaizdoms.
+- There you can disable automatic switching, or assign the same theme to both system appearances.
 
-## Spalvų paletė (hex)
+## Color palette (hex)
 - Background: `#1c1c1c`, `#282828`, `#2a2a2a`, `#343434`, `#383838`
 - Border/Dim: `#696969`, `#505050`
 - Text: `#d0d0d0`, `#c0c0c0`, `#dcdccc`
@@ -38,5 +38,5 @@ D `#93e0e3`
 E `#7cb8bb`  
 F `#dcdccc`
 
-## Font (faktai)
-- `CourierNewPSMT` naudojamas tabs/list/header/footer/terminal/viewer.
+## Font (facts)
+- `CourierNewPSMT` is used for tabs/list/header/footer/terminal/viewer.
